@@ -1,0 +1,7 @@
+﻿  Problema1.cpp
+R:\TERCERO\MARP2\Problema7\Problema7\Problema1.cpp(20,17): warning C4244: 'return': conversión de '_Ty' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty=__int64
+          ]
+  Problema7.vcxproj -> R:\TERCERO\MARP2\Problema7\Debug\Problema7.exe

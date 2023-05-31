@@ -1,0 +1,7 @@
+﻿  Problema1.cpp
+R:\TERCERO\MARP2\Problema4\Problema4\Problema1.cpp(21,39): warning C4244: 'argumento': conversión de '_Ty' a 'const unsigned int'; posible pérdida de datos
+          with
+          [
+              _Ty=__int64
+          ]
+  Problema4.vcxproj -> R:\TERCERO\MARP2\Problema4\Debug\Problema4.exe

@@ -1,0 +1,4 @@
+﻿  Problema1.cpp
+R:\TERCERO\MARP2\Problema2\Problema2\Problema1.cpp(56,16): warning C4101: 'precio': variable local sin referencia
+R:\TERCERO\MARP2\Problema2\Problema2\Problema1.cpp(56,6): warning C4101: 'longitud': variable local sin referencia
+  Problema2.vcxproj -> R:\TERCERO\MARP2\Problema2\Debug\Problema2.exe

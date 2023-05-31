@@ -1,0 +1,8 @@
+﻿  Problema1.cpp
+R:\TERCERO\MARP2\Problema9\Problema9\Problema1.cpp(13,35): warning C4305: '=': truncamiento de '__int64' a '_Ty'
+          with
+          [
+              _Ty=int
+          ]
+R:\TERCERO\MARP2\Problema9\Problema9\Problema1.cpp(13,22): warning C4309: '=': truncamiento de valor constante
+  Problema9.vcxproj -> R:\TERCERO\MARP2\Problema9\Debug\Problema9.exe
